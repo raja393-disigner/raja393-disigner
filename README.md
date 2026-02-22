@@ -14,4 +14,4 @@
 ![Excel](https://img.shields.io/badge/-Excel-darkgreen)
 
 ## 📊 GitHub Stats
-![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja393-designer&show_icons=true&theme=radical)
+![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja393-designer&show_icons=true&theme=radical&count_private=true)
