@@ -41,17 +41,14 @@
 ---
 
 ## 📊 GitHub Stats
-
 ![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja393-designer&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=raja393-designer&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=raja393-designer&theme=radical&hide_border=true)
 
 ---
 
 ## 📈 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raja393-designer&layout=compact&theme=radical)
