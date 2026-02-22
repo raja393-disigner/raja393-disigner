@@ -88,4 +88,4 @@
 ---
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:006400&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=footer"/>
