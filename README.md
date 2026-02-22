@@ -1,16 +1,17 @@
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=180&section=header&text=Raja%20%7C%20Data%20Analyst&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Raja%20%7C%20Data%20Analyst&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Raja</h1>
 
+<!-- Real Coding Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Power+BI+Enthusiast;Python+Learner;MySQL+Developer;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=const+Raja+%3D+'Future+Data+Scientist';;console.log('Turning+Data+Into+Insights');;while(learning)+%7B+grow();+%7D;Power+BI+%7C+Python+%7C+MySQL;" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raja393-disigner&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=raja393-disigner&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -24,6 +25,13 @@
 - 📊 Creating Reports using Power BI  
 - 🗄️ Managing Databases using MySQL  
 - 🎯 Goal: Become a Professional Data Analyst  
+
+---
+
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
 
@@ -41,7 +49,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/raja rautela">
+<a href="https://linkedin.com/in/raja-rautela">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -51,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raja393-disigner&show_icons=true&theme=radical&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=raja393-disigner&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raja393-disigner&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=raja393-disigner&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -65,27 +73,10 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja393-disigner&layout=compact&theme=radical"/>
-</p>
-
----
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raja393-disigner&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=raja393-disigner&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja393-disigner&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja393-disigner&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -93,3 +84,8 @@
 ## ✨ Personal Motto
 
 > "Data is the new oil, but insight is the real power." 🚀
+
+---
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
