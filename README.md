@@ -1,6 +1,14 @@
-# Hi 👋, I'm Raja
+# Hi 👋, I'm Raja  
 
-### 📊 Aspiring Data Analyst | Turning Data into Insights
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Power+BI+Enthusiast;Python+Learner;MySQL+Developer;Turning+Data+Into+Insights" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raja393-disigner&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
@@ -8,46 +16,54 @@
 
 - 🎓 Diploma Student in Computer Science Engineering  
 - 📊 Passionate about Data Analytics & Business Intelligence  
-- 📈 Skilled in analyzing data and creating dashboards  
-- 🐍 Using Python for data cleaning & analysis  
-- 📊 Building interactive dashboards using Power BI  
-- 🗄️ Working with MySQL for database management  
-- 📚 Always learning new technologies & improving problem-solving skills  
-- 🎯 Goal: To become a professional Data Analyst  
+- 📈 Skilled in Data Cleaning & Dashboard Creation  
+- 🐍 Working with Python for Data Analysis  
+- 📊 Creating Reports using Power BI  
+- 🗄️ Managing Databases using MySQL  
+- 🎯 Goal: Become a Professional Data Analyst  
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python)
+<p align="center">
 
-### 📊 Data Analytics Tools
-![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-![Excel](https://img.shields.io/badge/-Excel-darkgreen?style=for-the-badge&logo=microsoft-excel)
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,mysql" />
+<br><br>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raja-rautela)
+
+<p align="center">
+<a href="https://linkedin.com/in/raja-rautela">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja393-disigner&show_icons=true&theme=radical&count_private=true)
 
----
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=raja393-disigner&theme=radical&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=raja393-disigner&show_icons=true&theme=radical&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raja393-disigner&theme=radical" height="165"/>
+</p>
 
 ---
 
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raja393-disigner&layout=compact&theme=radical)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja393-disigner&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## ✨ Quote I Believe In
+
+> “Without data, you're just another person with an opinion.”
