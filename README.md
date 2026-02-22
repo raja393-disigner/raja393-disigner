@@ -83,7 +83,7 @@
 
 ## ✨ Personal Motto
 
-> "Data is the new oil, but insight is the real power." 🚀
+> “Without data, you're just another person with an opinion." 🚀
 
 ---
 
