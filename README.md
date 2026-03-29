@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Diploma Student in Computer Science Engineering  
+- 🎓 Diploma Student in Computer Science Engineering
 - 📊 Passionate about Data Analytics & Business Intelligence  
 - 📈 Skilled in Data Cleaning & Dashboard Creation  
 - 🐍 Working with Python for Data Analysis  
