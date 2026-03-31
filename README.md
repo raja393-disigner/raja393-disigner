@@ -23,7 +23,7 @@
 - 📈 Skilled in Data Cleaning & Dashboard Creation  
 - 🐍 Working with Python for Data Analysis  
 - 📊 Creating Reports using Power BI  
-- 🗄️ Managing Databases using MySQL  
+- 🗄️ Managing Databases using MySQL 
 - 🎯 Goal: Become a Professional Data Analyst  
 
 ---
