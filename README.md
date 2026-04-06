@@ -22,7 +22,7 @@
 - 📊 Passionate about Data Analytics & Business Intelligence  
 - 📈 Skilled in Data Cleaning & Dashboard Creation  
 - 🐍 Working with Python for Data Analysis 
-- 📊 Creating Reports using Power BI  
+- 📊 Creating Reports using Power BI
 - 🗄️ Managing Databases using MYSQL
 - 🎯 Goal: Become a Professional Data Analyst
 
